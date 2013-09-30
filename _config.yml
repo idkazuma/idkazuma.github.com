@@ -1,0 +1,4 @@
+name: kazuma's blog
+markdown: redcarpet
+pygments: true
+exclude: ["vendor", "Gemfile", "Gemfile.lock"]
