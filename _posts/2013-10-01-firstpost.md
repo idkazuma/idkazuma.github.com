@@ -14,7 +14,6 @@ this is my first post
 
 ```
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]
-Extension is .markdown not .md
 ```
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
